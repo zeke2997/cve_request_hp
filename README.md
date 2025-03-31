@@ -1,5 +1,5 @@
 ## Description
-The HP OfficeJet Pro 9010 series printers have some network interfaces that do not require authentication. Attackers can remotely tamper with the printer configuration or directly manipulate the printer, such as:  
+Certain network interfaces of the HP OfficeJet Pro series and LaserJet Pro series printers do not require authentication. Attackers can remotely tamper with printer configurations or directly manipulate the printer, such as:  
 - disabling or deleting the printer's web services.
 - closing the default port used for printing.
 - restarting the printer.
