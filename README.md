@@ -13,46 +13,46 @@ CWE-306: Missing Authentication for Critical Function
 
 ## The affected products and versions include, but are not limited to:
 
-- HP LaserJet Pro MFP M428fdn
-  Firmware version: TETONXXXXN002.2445A.00
+- HP LaserJet Pro MFP M428fdn  
+Firmware version: TETONXXXXN002.2445A.00
 
-- HP LaserJet Pro MFP 4101fdw
-  Firmware version: LOCHSAXXXN002.2513A.00
+- HP LaserJet Pro MFP 4101fdw  
+Firmware version: LOCHSAXXXN002.2513A.00
 
-- HP LaserJet Pro MFP M428fdw
+- HP LaserJet Pro MFP M428fdw  
 Firmware version: TETONXXXXN002.2512A.00
 
-- HP Color LaserJet Pro MFP M479fdw
+- HP Color LaserJet Pro MFP M479fdw  
 Firmware version: CLRWTRXXXN002.2445A.00
 
-- HP DeskJet 4100 All-in-One Printer series
+- HP DeskJet 4100 All-in-One Printer series  
 Firmware version: TOP1FN2424DR
 
-- HP DeskJet Ink Advantage 3700 All-in-One Printer series
+- HP DeskJet Ink Advantage 3700 All-in-One Printer series  
 Firmware version: LAP1FN2125BR
 
-- HP OfficeJet 8020 series
+- HP OfficeJet 8020 series  
 Firmware versions: MALBECPP1N001.1921A.00, MALBECPP1N004.2512C.00
 
-- HP OfficeJet Pro 8210
+- HP OfficeJet Pro 8210  
 Firmware versions: NON-HP-NC.1803A11.00, NON-HP-NC.1803A31.00, TESPDLPP1N001.2514A.00
 
-- HP OfficeJet Pro 9010 series
+- HP OfficeJet Pro 9010 series  
 Firmware versions: MANHTNPP1N005.2512A.00, MANHTNPP1N002.2042A.00
 
-- HP OfficeJet Pro 9020 series
+- HP OfficeJet Pro 9020 series  
 Firmware versions: MANHHIPP1N005.2512A.00, MANHHIPP1N002.2042A.00
 
-- HP OfficeJet Pro 8710
+- HP OfficeJet Pro 8710  
 Firmware versions: NON-HP NC 71631, NON-HP NC 71611, WBP2CN1716AR
 
-- HP OfficeJet Pro 8720
+- HP OfficeJet Pro 8720  
 Firmware version: NON-HP NC 72010
 
-- HP OfficeJet Pro 7740 Wide Format All-in-One
+- HP OfficeJet Pro 7740 Wide Format All-in-One  
 Firmware versions: NON-HP-NC 1729E11.00, EDWINXPP1N002.1849A.00
 
-- HP OfficeJet Pro 7720 Wide Format All-in-One
+- HP OfficeJet Pro 7720 Wide Format All-in-One  
 Firmware version: ELLISXLP1N003.1928A.00
 
 
