@@ -14,10 +14,10 @@ CWE-306: Missing Authentication for Critical Function
 ## The affected products and versions include, but are not limited to:
 
 - HP LaserJet Pro MFP M428fdn
-Firmware version: TETONXXXXN002.2445A.00
+  Firmware version: TETONXXXXN002.2445A.00
 
 - HP LaserJet Pro MFP 4101fdw
-Firmware version: LOCHSAXXXN002.2513A.00
+  Firmware version: LOCHSAXXXN002.2513A.00
 
 - HP LaserJet Pro MFP M428fdw
 Firmware version: TETONXXXXN002.2512A.00
