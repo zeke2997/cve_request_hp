@@ -8,10 +8,8 @@ Certain network interfaces of the HP OfficeJet Pro series and LaserJet Pro serie
 
 The affected printers do not have any authentication mechanisms enabled in their factory default configuration (such as an administrator account password not being set), resulting in their network management interface (including but not limited to the web console, SNMP services, FTP services, 9100 port printing services, etc.) being directly accessible by unauthorized users.
 
-## CWE-306: Missing Authentication for Critical Function
-
 ## Vulnerability Type
-CWE-284: Improper Access Control
+CWE-306: Missing Authentication for Critical Function
 
 ## POC:
 ![poc1.png](poc1.png)
